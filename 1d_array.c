@@ -9,7 +9,7 @@ int main() {
     int input = 0;
     int sum = 0;
     scanf("%d", &n);
-    int arr[10] = {0};
+    int arr[1000] = {0};
 
 
     for (int i = 0; i < n; i++)
